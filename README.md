@@ -19,7 +19,7 @@ The News Aggregator is a web application that allows users to search for news ar
 ## Here is the Example Usage on Local Host
 ![Example Usage 1](image1.jpg)
 ![Example Usage 2](image2.jpg)
-![Example Usage 3](image3.jpg)
+![Example Usage 3](image4.jpg)
 
 
 ## API Key
